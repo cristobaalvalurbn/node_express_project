@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Perez",
+    "email": "juan@gmail.com"
+  },
+  {
+    "id": 2,
+    "nombre": "Maria Garcia",
+    "email": "maria@gmail.com.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana Paz",
+    "email": "anap@gmail.com"
+  },
+  {
+    "id": 4,
+    "nombre": "Freddy Martinez",
+    "email": "fmartinez@gmail.com"
+  },
+  {
+    "id": 5,
+    "nombre": "Felipe Veliz",
+    "email": "feliv@gmail.com"
+  },
+  {
+    "id": 6,
+    "nombre": "Jose Garcia",
+    "email": "Joseg@gmail.com"
+  },
+  {
+    "id": 7,
+    "nombre": "Pedro Flamenco",
+    "email": "pedro.p@gmail.com"
+  }
+]

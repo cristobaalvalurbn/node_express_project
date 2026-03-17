@@ -1,0 +1,11 @@
+[16-03-2026 9:36:59 p. m.] Ruta accedida: /
+[16-03-2026 9:36:59 p. m.] Ruta accedida: /favicon.ico
+[16-03-2026 9:58:43 p. m.] Ruta accedida: /api/users/1
+[16-03-2026 9:58:44 p. m.] Ruta accedida: /favicon.ico
+[16-03-2026 9:58:46 p. m.] Ruta accedida: /api/users/1
+[16-03-2026 10:00:01 p. m.] Ruta accedida: /
+[16-03-2026 10:00:01 p. m.] Ruta accedida: /favicon.ico
+[16-03-2026 10:00:08 p. m.] Ruta accedida: /api/users/5
+[16-03-2026 10:00:14 p. m.] Ruta accedida: /api/users/3
+[16-03-2026 10:00:19 p. m.] Ruta accedida: /api/users/2
+[16-03-2026 10:43:56 p. m.] Ruta accedida: /api/users
